@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About MLArticles",
+      "description": "Latest articles about machine learning",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-12-03T23:15:11-08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Machine Learning Articles",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-12-03T23:27:38-08:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

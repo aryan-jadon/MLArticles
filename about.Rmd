@@ -1,0 +1,9 @@
+---
+title: "About MLArticles"
+description: |
+  Latest articles about machine learning
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```

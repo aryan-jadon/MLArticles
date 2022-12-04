@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/2022-12-03-multi-horizon-time-series-forecasting-using-temporal-fusion-transformers/",
+    "title": "Multi-horizon Time Series Forecasting using Temporal Fusion Transformers",
+    "description": "Multi-horizon forecasting is a crucial challenge in time series machine learning. In this post, we will explore how Temporal Fusion Transformer (TFT), an attention-based DNN model can be used for multi-horizon forecasting.",
+    "author": [
+      {
+        "name": "Aryan Jadon",
+        "url": {}
+      }
+    ],
+    "date": "2022-12-03",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-12-03T23:27:36-08:00",
+    "input_file": {}
+  }
+]
